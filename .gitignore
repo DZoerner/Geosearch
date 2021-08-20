@@ -1,6 +1,5 @@
 bin/
 .settings/org.eclipse.jdt.core.prefs
-.project
 out/
 .idea/misc.xml
 .idea/modules.xml
